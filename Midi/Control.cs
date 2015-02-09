@@ -47,42 +47,51 @@ namespace Midi
     /// </remarks>
     public enum Control
     {
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        ModulationWheel = 1,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        DataEntryMSB = 6,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        Volume = 7,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        Pan = 10,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        Expression = 11,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        DataEntryLSB = 38,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        SustainPedal = 64,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        ReverbLevel = 91,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        TremoloLevel = 92,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        ChorusLevel = 93,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        CelesteLevel = 94,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        PhaserLevel = 95,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        NonRegisteredParameterLSB = 98,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        NonRegisteredParameterMSB = 99,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        RegisteredParameterNumberLSB = 100,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        RegisteredParameterNumberMSB = 101,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        AllControllersOff = 121,
-        /// <summary>General MIDI Control--See MIDI spec for details.</summary>
-        AllNotesOff = 123
+        Fader1 = 0,
+        Fader2 = 1,
+        Fader3 = 2,
+        Fader4 = 3,
+        Fader5 = 4,
+        Fader6 = 5,
+        Fader7 = 6,
+        Fader8 = 7,
+        Rec1 = 64,
+        Rec2 = 65,
+        Rec3 = 66,
+        Rec4 = 67,
+        Rec5 = 68,
+        Rec6 = 69,
+        Rec7 = 70,
+        Rec8 = 71,
+        Mute1 = 48,
+        Mute2 = 49,
+        Mute3 = 50,
+        Mute4 = 51,
+        Mute5 = 52,
+        Mute6 = 53,
+        Mute7 = 54,
+        Mute8 = 55,
+        Solo1 = 32,
+        Solo2 = 33,
+        Solo3 = 34,
+        Solo4 = 35,
+        Solo5 = 36,
+        Solo6 = 37,
+        Solo7 = 38,
+        Solo8 = 39,
+        Pan1 = 16,
+        Pan2 = 17,
+        Pan3 = 18,
+        Pan4 = 19,
+        Pan5 = 20,
+        Pan6 = 21,
+        Pan7 = 22,
+        Pan8 = 23,
+        Rev = 43,
+        For = 44,
+        Stop = 42,
+        Play = 41,
+        Rec = 45,
     }
 
     /// <summary>
