@@ -1,0 +1,6 @@
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\Midi\bin\Debug\Midi.XML
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\Midi\bin\Debug\Midi.dll
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\Midi\bin\Debug\Midi.pdb
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\Midi\obj\Debug\Midi.csprojResolveAssemblyReference.cache
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\Midi\obj\Debug\Midi.dll
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\Midi\obj\Debug\Midi.pdb

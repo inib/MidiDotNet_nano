@@ -1,0 +1,12 @@
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\bin\Debug\GUIDemo.exe.config
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\bin\Debug\GUIDemo.exe
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\bin\Debug\GUIDemo.pdb
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\bin\Debug\Midi.dll
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\bin\Debug\Midi.pdb
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\bin\Debug\Midi.xml
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\obj\Debug\GUIDemo.csprojResolveAssemblyReference.cache
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\obj\Debug\GUIDemo.Form1.resources
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\obj\Debug\GUIDemo.Properties.Resources.resources
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\obj\Debug\GUIDemo.csproj.GenerateResource.Cache
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\obj\Debug\GUIDemo.exe
+C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\GUIDemo\obj\Debug\GUIDemo.pdb
