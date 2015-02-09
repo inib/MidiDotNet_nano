@@ -1,1 +1,0 @@
-C:\Users\Korbinian\Source\Repos\MidiDotNet_nano\ConsoleDemo\obj\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
